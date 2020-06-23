@@ -1,0 +1,458 @@
+<?xml version="1.0"?>
+<cv author="Tuukka Haapasalo" created="22.3.2003" modified="17.6.2010" stylesheet="cv-style.css" textWidth="16" textHeight="26" topMargin="1.3" leftMargin="2.4">
+
+<hyphen>kou-lu-tus-oh-jel-ma</hyphen>
+
+<image source="images/tuukka.jpg" width="110" height="130" alt="Tuukka Haapasalo" />
+<image target="latex" source="images/tuukka-latex.jpg" width="400" height="419" alt="Tuukka Haapasalo" />
+
+<personal>
+<item compact="true" header="TUUKKA HAAPASALO"></item>
+<!--
+<item compact="true">Komentajankatu 4 B 16</item>
+<item compact="true">02600 Espoo</item>
+-->
+
+<item language="fi" name="GSM">+358 40-706 3785</item>
+<item language="en" name="Cellular">+358 40-706 3785</item>
+
+<item language="fi" name="Sähköposti" type="email">tuukka.haapasalo@iki.fi</item>
+<item language="en" name="E-mail" type="email">tuukka.haapasalo@iki.fi</item>
+
+<item language="fi" name="Kansalaisuus" brief="false">suomi</item>
+<item language="en" name="Nationality" brief="false">Finnish</item>
+
+<item language="fi" name="Syntymäaika">30.10.1980</item>
+<item language="en" name="Birthdate">30.10.1980</item>
+
+<item language="fi" name="Siviilisääty" brief="false">Naimisissa</item>
+<item language="en" name="Marital status" brief="false">Married</item>
+</personal>
+
+<topic namefi="Koulutus" nameen="Education">
+
+<section name="TKK-TkT">
+<item language="fi" name="01/2008 - 10/2010" full="false" header="Tekniikan tohtori">Aalto-yliopiston teknillinen korkeakoulu, tietotekniikan koulutusohjelma, pääaine ohjelmistojärjestelmät, opintopisteet 60 (keskiarvo 4,69)</item>
+<item language="en" name="01/2008 - 10/2010" full="false" header="Doctor of Science">Aalto University School of Science and Technology, Dpt. of Computer Science and Engineering, major software systems, study points 60 (weighted average 4,69)</item>
+
+<item language="fi" name="Ajankohta" brief="false">Kevät 2008 - syksy 2010</item>
+<item language="en" name="Time" brief="false">Spring 2008 - autumn 2010</item>
+
+<item language="fi" name="Tutkinto" brief="false" header="Tekniikan tohtori"></item>
+<item language="en" name="Degree" brief="false" header="Doctor of Science"></item>
+
+<item language="fi" name="Oppilaitos" brief="false">Aalto-yliopiston teknillinen korkeakoulu</item>
+<item language="en" name="Institute" brief="false">Aalto University School of Science and Technology</item>
+
+<item language="fi" name="Pääaine" brief="false">Ohjelmistojärjestelmät</item>
+<item language="en" name="Major" brief="false">Software Systems</item>
+
+<item language="fi" name="Opintopisteet" brief="false">60 (painotettu keskiarvo 4,69)</item>
+<item language="en" name="Study Points" brief="false">60 (weighted average 4,69)</item>
+</section>
+
+<section name="TKK-DI">
+<item language="fi" name="01/2001 - 01/2007" full="false" header="Diplomi-insinööri (oivallisesti)">Teknillinen korkeakoulu, tietotekniikan koulutusohjelma, pääaine ohjelmistojärjestelmät, sivuaine tietämystekniikka, opintoviikot 203,2 (keskiarvo 4,41)</item>
+<item language="en" name="01/2001 - 01/2007" full="false" header="Master of Science (with distinction)">Helsinki University of Technology, Dpt. of Computer Science and Engineering, major software systems, minor knowledge engineering, study weeks 203,2 (weighted average 4,41)</item>
+
+<item language="fi" name="Ajankohta" brief="false">Kevät 2001 - kevät 2007</item>
+<item language="en" name="Time" brief="false">Spring 2001 - spring 2007</item>
+
+<item language="fi" name="Tutkinto" brief="false" header="Diplomi-insinööri">oivallisesti</item>
+<item language="en" name="Degree" brief="false" header="Master of Science">graduated with distinction</item>
+
+<item language="fi" name="Oppilaitos" brief="false">Teknillinen korkeakoulu</item>
+<item language="en" name="Institute" brief="false">Helsinki University of Technology</item>
+
+<item language="fi" name="Pääaine" brief="false">Ohjelmistojärjestelmät</item>
+<item language="en" name="Major" brief="false">Software Systems</item>
+
+<item language="fi" name="Sivuaine" brief="false">Tietämystekniikka</item>
+<item language="en" name="Minor" brief="false">Knowledge Engineering</item>
+
+<item language="fi" name="Opintoviikot" brief="false">203,2 (painotettu keskiarvo 4,41)</item>
+<item language="en" name="Study Weeks" brief="false">203,2 (weighted average 4,41)</item>
+</section>
+
+<section namefi="Ylioppilastutkinto" nameen="Upper Secondary School">
+
+<item language="fi" name="08/1996 - 05/1999" full="false" header="Ylioppilastutkinto">Oulunkylän Yhteiskoulun lukio, arvosanat L, L, E, E, M</item>
+<item language="en" name="08/1996 - 05/1999" full="false" header="Upper Secondary School">Oulunkylän Yhteiskoulun lukio, grades L, L, E, E, M</item>
+
+<item language="fi" name="Ajankohta" brief="false">Syksy 1996 - kevät 1999</item>
+<item language="en" name="Time" brief="false">Autumn 1996 - spring 1999</item>
+
+<item language="fi" name="Tutkinto" brief="false" header="Ylioppilastutkinto"></item>
+<item language="en" name="Degree" brief="false" header="Upper secondary school"></item>
+
+<item language="fi" name="Oppilaitos" brief="false">Oulunkylän Yhteiskoulun lukio</item>
+<item language="en" name="Institute" brief="false">Oulunkylän Yhteiskoulun lukio</item>
+
+<item language="fi" name="Keskiarvo" brief="false">8,85 (lukuaineet 8,89)</item>
+<item language="en" name="Average" brief="false">8,85 (theoretical subjects 8,89)</item>
+
+<item language="fi" name="Arvosanat" brief="false">L, L, E, E, M</item>
+<item language="en" name="Grades" brief="false">L, L, E, E, M</item>
+
+</section>
+
+<section namefi="Peruskoulu" nameen="Comprehensive School" brief="false">
+
+<item language="fi" name="08/1996 - 05/1999" full="false" header="Oulunkylän Yhteiskoulu, Oulunkylän ala-aste">peruskoulu</item>
+<item language="en" name="08/1996 - 05/1999" full="false" header="Oulunkylän Yhteiskoulu, Oulunkylän ala-aste">Comprehensive school</item>
+
+<item language="fi" name="Ajankohta" brief="false">Syksy 1987 - kevät 1996</item>
+<item language="en" name="Time" brief="false">Autumn 1987 - spring 1996</item>
+
+<item language="fi" name="Tutkinto" brief="false" header="Peruskoulu"></item>
+<item language="en" name="Degree" brief="false" header="Comprehensive School"></item>
+
+<item language="fi" name="Oppilaitos" brief="false">Oulunkylän Yhteiskoulu</item>
+<item language="en" name="Institute" brief="false">Oulunkylän Yhteiskoulu</item>
+
+<item language="fi" brief="false">Oulunkylän ala-aste</item>
+<item language="en" brief="false">Oulunkylän ala-aste</item>
+
+<item language="fi" name="Keskiarvo" brief="false">9,28 (lukuaineet 9,50)</item>
+<item language="en" name="Average" brief="false">9,28 (theoretical subjects 9,50)</item>
+
+</section>
+
+</topic>
+
+<topic namefi="Työkokemus" nameen="Work Experience">
+
+
+<section name="HiQ Finland"> 
+
+<item language="fi" name="03/2011 -" full="false" header="HiQ Finland">ohjelmistoarkkitehti</item>
+<item language="en" name="03/2011 -" full="false" header="HiQ Finland">Software Architect</item>
+
+<item language="fi" full="false">järjestelmäkehitys, Java, ASP.NET MVC</item>
+<item language="en" full="false">software development, Java, ASP.NET MVC</item>
+
+<item language="fi" name="Ajankohta" brief="false">28.3.2011 -</item>
+<item language="en" name="Time" brief="false">28.3.2011 -</item>
+
+<item language="fi" name="Työnantaja" brief="false" header="HiQ Finland"></item>
+<item language="en" name="Employer" brief="false" header="HiQ Finland"></item>
+
+<item language="fi" name="Työnimike" brief="false">Ohjelmistoarkkitehti</item>
+<item language="en" name="Title" brief="false">Software Architect</item>
+
+<item language="fi" name="Työtehtävät" brief="false">Järjestelmäkehitys, Java, ASP.NET MVC</item>
+<item language="en" name="Work Assignments" brief="false">Software development, Java, ASP.NET MVC</item>
+
+</section>
+
+<section name="TKK"> 
+
+<item language="fi" name="01/2008 - 03/2011" full="false" header="Aalto-yliopiston teknillinen korkeakoulu">tutkija, kurssi-assistentti</item>
+<item language="en" name="01/2008 - 03/2011" full="false" header="Aalto University School of Science and Technology">Researcher</item>
+
+<item language="fi" full="false">tietokanta-algoritmien sekä merkkijonoalgoritmien kehitys ja toteutus</item>
+<item language="en" full="false">research and development of database and pattern matching algorithms</item>
+
+<item language="fi" name="Ajankohta" brief="false">14.1.2008 - 20.3.2011</item>
+<item language="en" name="Time" brief="false">14.1.2008 - 20.3.2011</item>
+
+<item language="fi" name="Työnantaja" brief="false" header="Aalto-yliopiston teknillinen korkeakoulu"></item>
+<item language="en" name="Employer" brief="false" header="Aalto University School of Science and Technology"></item>
+
+<item language="fi" name="Työnimike" brief="false">Tutkija, jatko-opiskelija, kurssiassistentti</item>
+<item language="en" name="Title" brief="false">Researcher, Post-Graduate Student, Course Assistant</item>
+
+<item language="fi" name="Työtehtävät" brief="false">Tietokanta-algoritmien tutkiminen, assistentti kursseilla Algoritmien suunnittelu ja analyysi, Hajautetut tietokannat sekä Transaktionhallinta tietokantajärjestelmissä</item>
+<item language="en" name="Work Assignments" brief="false">Study of database algorithms, course assistant on courses Design and Analysis of Algorithms, Distributed Databases, and Transaction Management in Databases</item>
+
+</section>
+
+<section name="HiQ Softplan Oy"> 
+
+<item language="fi" name="05/2005 - 01/2008" full="false" header="HiQ Softplan Oy">ohjelmistosuunnittelija</item>
+<item language="en" name="05/2005 - 01/2008" full="false" header="HiQ Softplan Oy">Software Engineer</item>
+
+<item language="fi" full="false">järjestelmäkehitys, Java, Java EE, Velocity, JSP</item>
+<item language="en" full="false">software development, Java, Java EE, Velocity, JSP</item>
+
+<item language="fi" name="Ajankohta" brief="false">1.5.2005 - 11.1.2008</item>
+<item language="en" name="Time" brief="false">1.5.2005 - 11.1.2008</item>
+
+<item language="fi" name="Työnantaja" brief="false" header="HiQ Softplan Oy"></item>
+<item language="en" name="Employer" brief="false" header="HiQ Softplan Oy"></item>
+
+<item language="fi" name="Työnimike" brief="false">Suunnittelija</item>
+<item language="en" name="Title" brief="false">Software Designer</item>
+
+<item language="fi" name="Työtehtävät" brief="false">Järjestelmäkehitys, Java, Java EE, Velocity, JSP</item>
+<item language="en" name="Work Assignments" brief="false">Software development, Java, Java EE, Velocity, JSP</item>
+
+</section>
+
+<section name="TKK"> 
+
+<item language="fi" name="01/2003 - 05/2005" full="false" header="Teknillinen korkeakoulu">kurssiassistentti kursseilla:</item>
+<item language="en" name="01/2003 - 05/2005" full="false" header="Helsinki University of Technology">Course Assistant on the following courses:</item>
+
+<item language="fi" full="false">C/C++-ohjelmointi, ohjelmoinnin perusteet sekä käyttöjärjestelmäprojekti</item>
+<item language="en" full="false">C/C++ Programming, Basic Course in Programming, Operating Systems Project</item>
+
+<item language="fi" name="Ajankohta" brief="false">1.1.2003 - 31.5.2005</item>
+<item language="en" name="Time" brief="false">1.1.2003 - 31.5.2005</item>
+
+<item language="fi" name="Työnantaja" brief="false" header="Teknillinen korkeakoulu"></item>
+<item language="en" name="Employer" brief="false" header="Helsinki University of Technology"></item>
+
+<item language="fi" name="Työnimike" brief="false">Kurssiassistentti</item>
+<item language="en" name="Title" brief="false">Course Assistant</item>
+
+<item language="fi" name="Kurssit" brief="false">Ohjelmoinnin perusteet, C/C++-ohjelmointi, käyttöjärjestelmäprojekti</item>
+<item language="en" name="Courses" brief="false">Basic Course in Programming, C/C++ Programming, Operating Systems Project</item>
+
+</section>
+
+<section name="GE Healthcare"> 
+
+<item language="fi" name="06/2004 - 09/2004" full="false" header="GE Healthcare">ohjelmistosuunnittelijaharjoittelija</item>
+<item language="en" name="06/2004 - 09/2004" full="false" header="GE Healthcare">Software Engineer Trainee</item>
+
+<item language="fi" full="false">potilasvalvontasovellusten kehitys älypuhelimiin, Java, MIDP ja Symbian C++</item>
+<item language="en" full="false">Patient Care Software Development for Smart Phones, MIDP and Symbian</item>
+
+<item language="fi" name="Ajankohta" brief="false">1.6.2004 - 15.9.2004</item>
+<item language="en" name="Time" brief="false">1.6.2004 - 15.9.2004</item>
+
+<item language="fi" name="Työnantaja" brief="false" header="GE Healthcare"></item>
+<item language="en" name="Employer" brief="false" header="GE Healthcare"></item>
+
+<item language="fi" name="Työnimike" brief="false">Ohjelmistosuunnittelijaharjoittelija</item>
+<item language="en" name="Title" brief="false">Software Engineer Trainee</item>
+
+<item language="fi" name="Työtehtävät" brief="false">potilasvalvontasovellusten kehitys älypuhelimiin, Java, Java MIDP ja Symbian C++</item>
+<item language="en" name="Work Assignments" brief="false">Patient Care Software Development for Smart Phones, Java, MIDP and Symbian C++</item>
+
+</section>
+
+<section name="ViewMinder Ltd."> 
+
+<item language="fi" name="06/2003 - 08/2003" full="false" header="ViewMinder Ltd.">ohjelmistokehittäjä</item>
+<item language="en" name="06/2003 - 08/2003" full="false" header="ViewMinder Ltd.">Software Engineer</item>
+
+<item language="fi" full="false">C++-ohjelmointi Windows-ympäristössä (MFC)</item>
+<item language="en" full="false">C++ Programming in Windows-environment (MFC)</item>
+
+<item language="fi" name="Ajankohta" brief="false">15.6.2003 - 31.8.2003</item>
+<item language="en" name="Time" brief="false">15.6.2003 - 31.8.2003</item>
+
+<item language="fi" name="Työnantaja" brief="false" header="ViewMinder Ltd."></item>
+<item language="en" name="Employer" brief="false" header="ViewMinder Ltd."></item>
+
+<item language="fi" name="Työnimike" brief="false">Ohjelmistokehittäjä</item>
+<item language="en" name="Title" brief="false">Software Engineer</item>
+
+<item language="fi" name="Työtehtävät" brief="false">C++-ohjelmointi Windows-ympäristössä (MFC)</item>
+<item language="en" name="Work Assignments" brief="false">C++ Programming in Windows-environment (MFC)</item>
+
+</section>
+
+<section name="MMD Group Oy"> 
+
+<item language="fi" name="09/2001 - 03/2003" full="false" header="MMD Group Oy">ohjelmistokehittäjä</item>
+<item language="en" name="09/2001 - 03/2003" full="false" header="MMD Group Oy">Software Engineer</item>
+
+<item language="fi" full="false">PHP ja MySQL -pohjaisten HTML-järjestelmien toteutus, ohjelmointi (PHP, Java, Delphi), palvelinkoneiden (RedHat Linux) asennus ja ylläpito</item>
+<item language="en" full="false">PHP and MySQL based HTML system development, programming (PHP, Java, Delphi), server machine (RedHat Linux) installation and maintenance</item>
+
+<item language="fi" name="Ajankohta" brief="false">1.9.2001 - 31.3.2003</item>
+<item language="en" name="Time" brief="false">1.9.2001 - 31.3.2003</item>
+
+<item language="fi" name="Työnantaja" brief="false" header="MMD Group Oy"></item>
+<item language="en" name="Employer" brief="false" header="MMD Group Oy"></item>
+
+<item language="fi" name="Työnimike" brief="false">Ohjelmistokehittäjä</item>
+<item language="en" name="Title" brief="false">Software Engineer</item>
+
+<item language="fi" name="Työtehtävät" brief="false">PHP ja MySQL -pohjaisten HTML-järjestelmien suunnittelu ja toteutus, ohjelmointi (PHP, Java, Delphi), palvelinkoneiden (RedHat Linux) sekä -ohjelmistojen asennus ja ylläpito</item>
+<item language="en" name="Work Assignments" brief="false">PHP and MySQL based HTML system development, programming (PHP, Java, Delphi), server machine (RedHat Linux) installation and maintenance</item>
+
+</section>
+
+<section namefi="Opetusvirasto" nameen="Ministry of Education"> 
+
+<item language="fi" name="11/1999 - 11/2000" full="false" header="Opetusviraston Mediakeskus">media-assistentti</item>
+<item language="en" name="11/1999 - 11/2000" full="false" header="Ministry of Education, Media Centre">media-assistant</item>
+
+<item language="fi" full="false">Web-järjestelmien suunnittelu ja toteutus</item>
+<item language="en" full="false">Design and development of web systems</item>
+
+<item language="fi" name="Ajankohta" brief="false">26.11.1999 - 22.11.2000</item>
+<item language="en" name="Time" brief="false">26.11.1999 - 22.11.2000</item>
+
+<item language="fi" name="Työnantaja" brief="false" header="Helsingin Kaupungin Opetusviraston Mediakeskus"></item>
+<item language="en" name="Employer" brief="false" header="Helsinki City Ministry of Education, Media Centre"></item>
+
+<item language="fi" name="Työnimike" brief="false">Media-assistentti</item>
+<item language="en" name="Title" brief="false">Media-assistant</item>
+
+<item language="fi" name="Työtehtävät" brief="false">Web-järjestelmien suunnittelu ja toteutus</item>
+<item language="en" name="Work Assignments" brief="false">Design and development of Web-systems</item>
+
+</section>
+
+<section name="Make My Day"> 
+
+<item language="fi" name="07/1998 - 08/2001" full="false" header="Multimedia Make My Day Oy">webmaster</item>
+<item language="en" name="07/1998 - 08/2001" full="false" header="Multimedia Make My Day Oy">Webmaster</item>
+
+<item language="fi" full="false">HTML-sivujen tuotanto, web-järjestelmien toteutus (PHP, MySQL, Perl)</item>
+<item language="en" full="false">HTML writing, development of web systems (PHP, MySQL, Perl)</item>
+
+<item language="fi" name="Ajankohta" brief="false">1.7.1998 - 31.8.2001</item>
+<item language="en" name="Time" brief="false">1.7.1998 - 31.8.2001</item>
+
+<item language="fi" name="Työnantaja" brief="false" header="Multimedia Make My Day Oy"></item>
+<item language="en" name="Employer" brief="false" header="Multimedia Make My Day Oy"></item>
+
+<item language="fi" name="Työnimike" brief="false">Webmaster</item>
+<item language="en" name="Title" brief="false">Webmaster</item>
+
+<item language="fi" name="Työtehtävät" brief="false">HTML-sivujen tuotanto, web-järjestelmien toteutus (PHP, MySQL, Perl)</item>
+<item language="en" name="Work Assignments" brief="false">HTML writing, design and development of web systems (PHP, MySQL, Perl)</item>
+
+</section>
+
+</topic>
+
+<topic namefi="Tietotekninen osaaminen" nameen="Technical Knowledge">
+
+<section namefi="Tietotekniikka" nameen="Computer Science"> 
+
+<item language="fi" name="Perusosaaminen">Windows-ympäristöt, Linux, Microsoft Office, OpenOffice, ...</item>
+<item language="en" name="Environments">Windows, Linux, Microsoft Office, OpenOffice, ...</item>
+
+<item language="fi" name="Työkalut">Eclipse, Emacs, LaTeX, SVN, CVS, Make, Ant, ...</item>
+<item language="en" name="Tools">Eclipse, Emacs, LaTeX, SVN, CVS, Make, Ant, ...</item>
+
+<item language="fi" name="Ohjelmointikielet" header="Java, C++">C, Java EE, Visual C++, PHP, skriptikielet, ...</item>
+<item language="en" name="Programming" header="Java, C++">C, Java EE, Visual C++, PHP, scripting languages, ...</item>
+
+<item language="fi" name="Ohjelmistokehykset">Spring Framework, Hibernate, Struts, ...</item>
+<item language="en" name="Frameworks">Spring Framework, Hibernate, Struts, ...</item>
+
+<item language="fi" name="Palvelinohjelmistot">Apache, Tomcat, MySQL, Pluto, ...</item>
+<item language="en" name="Server Software">Apache, Tomcat, MySQL, Pluto, ...</item>
+
+</section>
+</topic>
+
+
+<topic namefi="Kielitaito" nameen="Language Proficiency">
+<section namefi="Kielet" nameen="Languages">
+<item><table widthInChars="40" widthInCm="7" widthInPixels="300">
+<tr>
+<td></td>
+<td language="fi" header="true">Kirjallinen</td>
+<td language="en" header="true">Literary</td>
+
+<td language="fi" header="true">Suullinen</td>
+<td language="en" header="true">Spoken</td>
+</tr>
+<tr>
+<td language="fi">suomi</td>
+<td language="fi">äidinkieli</td>
+<td language="fi">äidinkieli</td>
+<td language="en">Finnish</td>
+<td language="en">native</td>
+<td language="en">native</td>
+</tr>
+<tr>
+<td language="fi">englanti</td>
+<td language="fi">erinomainen</td>
+<td language="fi">erinomainen</td>
+<td language="en">English</td>
+<td language="en">excellent</td>
+<td language="en">excellent</td>
+</tr>
+<tr>
+<td language="fi">ruotsi</td>
+<td language="fi">tyydyttävä</td>
+<td language="fi">tyydyttävä</td>
+<td language="en">Swedish</td>
+<td language="en">satisfactory</td>
+<td language="en">satisfactory</td>
+</tr>
+<tr>
+<td language="fi">venäjä</td>
+<td language="fi">välttävä</td>
+<td language="fi">alkeet</td>
+<td language="en">Russian</td>
+<td language="en">passable</td>
+<td language="en">basic</td>
+</tr>
+</table>
+</item>
+</section>
+</topic>
+
+<topic namefi="Luottamustehtävät" nameen="Positions of Trust" brief="false">
+
+<section namefi="Luottamustehtävät" nameen="Positions of Trust"> 
+
+<item language="fi" name="09/2009 - 05/2010" header="Opettajatuutori"></item>
+<item language="en" name="09/2009 - 05/2010" header="Tutor"></item>
+
+<item language="fi" name="01/2006 - 06/2006" header="Kiltalehden toimittaja"></item>
+<item language="en" name="01/2006 - 06/2006" header="Editor of guild magazine"></item>
+
+<item language="fi" name="01/2005 - 12/2005" header="Kiltalehden päätoimittaja"></item>
+<item language="en" name="01/2005 - 12/2005" header="Managing editor of guild magazine"></item>
+
+<item language="fi" name="01/2004 - 12/2004" header="Kiltalehden toimittaja"></item>
+<item language="en" name="01/2004 - 12/2004" header="Editor of guild magazine"></item>
+
+<item language="fi" name="09/2002 - 05/2003" header="ISOhenkilö">pienryhmänohjaaja, uusien opiskelijoiden opastaja</item>
+<item language="en" name="09/2002 - 05/2003" header="ISOhenkilö">small group mentor, guide for new students</item>
+
+</section>
+</topic>
+
+
+<topic namefi="Muuta" nameen="Other">
+
+<section namefi="Muuta" nameen="Other"> 
+
+<item language="fi" name="Ajokortti">B</item>
+<item language="en" name="Driver's Licence">B</item>
+
+<item language="fi" name="Isänmaanpalvelus">Siviilipalvelus, Helsingin Kaupungin Opetusviraston Mediakeskus</item>
+<item language="en" name="National Service">Civil service, Helsinki City Ministry of Education, Media Centre</item>
+
+</section>
+
+</topic>
+<!-- 
+<topic namefi="Julkaisut" nameen="Publications" brief="false" wide="true">
+
+<section name="CMVBT article"> 
+<item wide="true" compact="true">T. Haapasalo, I. Jaluta, S. Sippu and E. Soisalon-Soininen</item>
+<item wide="true" compact="true" header="Concurrent updating transactions on versioned data"></item>
+<item wide="true" compact="true">Proc. of the 13th Int'l Database Engineering and Applications Symposium, pages 77-87, 2009</item>
+</section>
+
+<section name="TMVBT article"> 
+<item wide="true" compact="true">T. Haapasalo, I. Jaluta, B. Seeger, S. Sippu and E. Soisalon-Soininen</item>
+<item wide="true" compact="true" header="Transactions on the multiversion B-tree"></item>
+<item wide="true" compact="true">Proc. of the 12th Int'l Conference on Extending Database Technology, pages 1064-1075, 2009</item>
+</section>
+
+<section name="PIKM workshop"> 
+<item wide="true" compact="true">T. Haapasalo, I. Jaluta, S. Sippu and E. Soisalon-Soininen</item>
+<item wide="true" compact="true" header="Concurrency control and recovery for multiversion database structures"></item>
+<item wide="true" compact="true">Proc. of the ACM 2nd Ph.D. workshop in CIKM, pages 73-80, 2008</item>
+<item wide="true" compact="true">Best Paper PIKM 2008</item>
+</section>
+
+</topic>
+-->
+
+</cv>

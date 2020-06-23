@@ -1,0 +1,17 @@
+.classpath
+.project
+.texlipse
+Model\ Folder
+bin
+*.xml
+*.html
+*.tex
+*.txt
+*.log
+*.aux
+*.dvi
+*.bat
+*.pdf
+*.tmp
+tmp
+gen

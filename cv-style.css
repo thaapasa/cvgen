@@ -1,0 +1,99 @@
+body {
+    text-align: center;
+}
+
+html,body,td,p,li {
+    font-family: Arial, Helvetica, Verdana, serif;
+    font-size: 12px;
+    background: #ffffff;
+}
+
+td {
+    border: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table.main {
+    width: 600px;
+    margin: 0 auto 30px auto;
+}
+
+table.personal {
+    width: 100%;
+    vertical-align: top;
+}
+
+table.item td {
+    padding: 3px 10px;
+}
+
+td.key {
+    border-right: 1px solid black;
+    padding-right: 10px;
+    text-align: right;
+    vertical-align: top;
+    white-space: nowrap;
+}
+
+td.toppad {
+    padding-top: 5px;
+}
+
+td.value {
+    padding-left: 10px;
+    vertical-align: top;
+    padding-top: 2px;
+}
+
+td.mainValue {
+    padding-left: 10px;
+    vertical-align: top;
+    font-weight: bold;
+    padding-top: 2px;
+}
+
+td.header {
+    border-bottom: 1px solid black;
+    vertical-align: top;
+    padding: 5px 0;
+}
+
+td.rightHeader {
+    border-bottom: 1px solid black;
+    vertical-align: top;
+    text-align: right;
+}
+
+td.right {
+    vertical-align: top;
+    text-align: right;
+}
+
+td.personal {
+    vertical-align: top;
+    padding: 3px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+td.topHeader {
+    text-align: right;
+    vertical-align: top;
+}
+
+h1 {
+    font-size: 16px;
+    color: #002277;
+    background-color: #ffffff;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: 12px;
+    color: black;
+    background-color: #ffffff;
+    margin-bottom: 0px;
+}
